@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/jorg3luisplay/node/issues"
   },
-  "homepage": "https://github.com/jorg3luisplay/node#readme"
+  "homepage": "https://github.com/jorg3luisplay/node#readme",
+  "dependencies": {
+    "@material-ui/core": "^4.11.3",
+    "@material-ui/icons": "^4.11.2"
+  }
 }
